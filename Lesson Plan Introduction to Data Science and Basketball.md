@@ -2,8 +2,8 @@
 In this series of lessons, students will begin visualizing basketball datasets in Python. Through this series of three lessons, students will learn how to import an external source of data and filter and sort through it. In our projects, we use Pascal Siakim's basketball data but encourage students to use their own datasets or even create their own. Students can shoot their own baskets and record their own data for these projects. If time is a limitation, feel free to use more informal forms of basketball like shooting scrunched up scrap paper into the recycle bin!
 
 ## Learning Outcomes
-* Students will be able to use python to import an external source of dataset
-* Students will be able to use python to sort and filter through a dataset
+* Students will be able to use python to import an external source of data
+* Students will be able to use python to sort and filter through data
 
 ## Curricular Outcomes
 <details>

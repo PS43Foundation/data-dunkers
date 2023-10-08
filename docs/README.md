@@ -1,4 +1,4 @@
-![top-banner](../top-banner.jpg)
+![top-banner](top-banner.jpg)
 
 # Data Dunkers Program
 

@@ -36,6 +36,8 @@ The program consists of learning activities designed to explore how to find mean
 |Inquiry <br> (Personal Projects)|Explore data sets through basketball or other domains of interest <br> Encourage student voice and choice to build both digital and data science skills <br> Amplify creativity and personalization|
 |Career Opportunities|Seek new opportunities in the field <br> Discover and explore career pathways and opportunities in data science|
 
+For questions or further information, please contact DataDunkers@Dell.com.
+
 ## Organizations
 
 Data Dunkers is brought to you by

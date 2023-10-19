@@ -8,10 +8,11 @@ Data Dunkers is an innovative basketball and data science learning experience fo
 
 The program consists of learning activities designed to explore how to find meaning in data, primarily using open data from the NBA and WNBA. Students engage in data analysis by defining a question, collecting, cleaning, and analyzing data, and effectively communicating results. Beyond this, the initiative serves as a launchpad for global competencies, such as critical thinking and problem solving, and discovering career pathways within the realm of data science.
 
+* [Basketball Data Labyrinth](https://github.com/callysto/data-labyrinth/blob/main/basketball/basketball.ipynb)
 * [Pascal Siakam Data Hackathon](https://github.com/PS43Foundation/data-dunkers/blob/main/notebooks/hackathon/pascal-siakam-stats-intro.ipynb)
 * [Basketball and Data Science](https://github.com/callysto/basketball-and-data-science/blob/main/README.md)
 * [Lesson Plans](https://github.com/PS43Foundation/data-dunkers/tree/main/lesson-plans)
-* [Basketball Data Labyrinth](https://github.com/callysto/data-labyrinth/blob/main/basketball/basketball.ipynb)
+
 
 ## Why
 
@@ -36,12 +37,12 @@ The program consists of learning activities designed to explore how to find mean
 |Inquiry <br> (Personal Projects)|Explore data sets through basketball or other domains of interest <br> Encourage student voice and choice to build both digital and data science skills <br> Amplify creativity and personalization|
 |Career Opportunities|Seek new opportunities in the field <br> Discover and explore career pathways and opportunities in data science|
 
-For questions or further information, please contact DataDunkers@Dell.com.
-
-## Organizations
+## Partners
 
 Data Dunkers is brought to you by
 
 |Callysto|Dell|Digital Moment|PS43 Foundation|
 |:-:|:-:|:-:|:-:|
 |[callysto.ca](https://www.callysto.ca)|[dell.ca](https://dell.ca)|[digitalmoment.org](https://digitalmoment.org)|[ps43foundation.com](https://www.ps43foundation.com)|
+
+For questions or further information, please contact DataDunkers@Dell.com.
